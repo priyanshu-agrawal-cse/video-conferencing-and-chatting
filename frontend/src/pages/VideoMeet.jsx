@@ -532,7 +532,7 @@ import StopScreenShareIcon from '@mui/icons-material/StopScreenShare'
 import ChatIcon from '@mui/icons-material/Chat'
 import server from '../envirement';
 
-const server_url = server;
+const server_url = "https://video-conferencing-and-chatting.onrender.com";
 
 var connections = {};
 
